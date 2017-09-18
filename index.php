@@ -1,9 +1,9 @@
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <base href="<?=$this->config->item('base_url')?>" />
     <title>Abz | Game Portal</title>
 
     <meta name="description" content="Abz - Online game portal">
